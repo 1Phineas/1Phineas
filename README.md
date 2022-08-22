@@ -8,7 +8,7 @@
       <a href="https://www.twitch.tv/phineas_123123">twitch</a><br />
       <a href="https://www.youtube.com/channel/UCiFxw0Muro7FWg7i0sSI6Lw">youtube</a><br />
     <td/>
-    <td><pre style="font-size:12px">                   .%;888:8898898:                makszalata@makszalata-h61ms1 
+    <td><pre style="font-size:9px">                   .%;888:8898898:                makszalata@makszalata-h61ms1 
                  x;XxXB%89b8:b8%b88:              ----------------------------
               .8Xxd                8X:.           OS: Garuda Linux x86_64
             .8Xx;                    8x:.         Host: H61M-S1
