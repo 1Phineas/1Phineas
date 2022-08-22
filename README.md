@@ -1,10 +1,14 @@
-[reddit](https://www.reddit.com/u/Phineas_123123)<br />
-[steam](https://steamcommunity.com/profiles/76561199368795422)<br />
-[spotify](https://open.spotify.com/user/31y7d5yswpaxbw2apaymgcxmzh5u)<br />
-[twitter](https://twitter.com/Phineasnyes)<br />
-[twitch](https://www.twitch.tv/phineas_123123)<br />
-[youtube](https://www.youtube.com/channel/UCiFxw0Muro7FWg7i0sSI6Lw)<br />
-pc info:
+<table>
+  <tr>
+    <td>
+      [reddit](https://www.reddit.com/u/Phineas_123123)<br />
+      [steam](https://steamcommunity.com/profiles/76561199368795422)<br />
+      [spotify](https://open.spotify.com/user/31y7d5yswpaxbw2apaymgcxmzh5u)<br />
+      [twitter](https://twitter.com/Phineasnyes)<br />
+      [twitch](https://www.twitch.tv/phineas_123123)<br />
+      [youtube](https://www.youtube.com/channel/UCiFxw0Muro7FWg7i0sSI6Lw)<br />
+    <td/>
+    <td>
 ```console
                    .%;888:8898898:                makszalata@makszalata-h61ms1 
                  x;XxXB%89b8:b8%b88:              ----------------------------
@@ -26,3 +30,6 @@ GBB.                                              WM Theme: Sweet-Dark
           .d988999889889899dd.                    Memory: 1774MiB / 3886MiB
 
 ```
+    <td/>
+  <tr/>
+</table>
