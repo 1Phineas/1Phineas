@@ -1,12 +1,12 @@
 <table>
   <tr>
     <td>
-      [reddit](https://www.reddit.com/u/Phineas_123123)<br />
-      [steam](https://steamcommunity.com/profiles/76561199368795422)<br />
-      [spotify](https://open.spotify.com/user/31y7d5yswpaxbw2apaymgcxmzh5u)<br />
-      [twitter](https://twitter.com/Phineasnyes)<br />
-      [twitch](https://www.twitch.tv/phineas_123123)<br />
-      [youtube](https://www.youtube.com/channel/UCiFxw0Muro7FWg7i0sSI6Lw)<br />
+      <a href="https://www.reddit.com/u/Phineas_123123">reddit</a><br />
+      <a href="https://steamcommunity.com/profiles/76561199368795422">steam</a><br />
+      <a href="https://open.spotify.com/user/31y7d5yswpaxbw2apaymgcxmzh5u">spotify</a><br />
+      <a href="https://twitter.com/Phineasnyes">twitter</a><br />
+      <a href="https://www.twitch.tv/phineas_123123">twitch</a><br />
+      <a href="https://www.youtube.com/channel/UCiFxw0Muro7FWg7i0sSI6Lw">youtube</a><br />
     <td/>
     <td>
 ```console
