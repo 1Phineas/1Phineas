@@ -9,8 +9,7 @@
       <a href="https://www.youtube.com/channel/UCiFxw0Muro7FWg7i0sSI6Lw">youtube</a><br />
     <td/>
     <td>
-      <code>
-        <pre>                   .%;888:8898898:                makszalata@makszalata-h61ms1 
+ <code><pre>                   .%;888:8898898:                makszalata@makszalata-h61ms1 
                  x;XxXB%89b8:b8%b88:              ----------------------------
               .8Xxd                8X:.           OS: Garuda Linux x86_64
             .8Xx;                    8x:.         Host: H61M-S1
@@ -27,9 +26,7 @@ GBB.                                              WM Theme: Sweet-Dark
     dxx8o                      .@@;.              Terminal: qterminal
       dx88                   .t@x.                CPU: Intel Core i3-2120 (4) @ 3.3GHz
         d:SS@8ba89aa67a853Sxxad.                  GPU: Nvidia GeForce GT 430
-          .d988999889889899dd.                    Memory: 1774MiB / 3886MiB
-        </pre>
-      </code>
+          .d988999889889899dd.                    Memory: 1774MiB / 3886MiB</pre></code>
     <td/>
   <tr/>
 </table>
