@@ -1,14 +1,11 @@
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://www.reddit.com/u/Phineas_123123">reddit</a><br />
-      <a href="https://steamcommunity.com/profiles/76561199368795422">steam</a><br />
-      <a href="https://open.spotify.com/user/31y7d5yswpaxbw2apaymgcxmzh5u">spotify</a><br />
-      <a href="https://twitter.com/Phineasnyes">twitter</a><br />
-      <a href="https://www.twitch.tv/phineas_123123">twitch</a><br />
-      <a href="https://www.youtube.com/channel/UCiFxw0Muro7FWg7i0sSI6Lw">youtube</a><br />
-    <td/>
-    <td><pre style="font-style:italic">                   .%;888:8898898:                makszalata@makszalata-h61ms1 
+<a href="https://www.reddit.com/u/Phineas_123123">reddit</a>
+<a href="https://steamcommunity.com/profiles/76561199368795422">steam</a><br />
+<a href="https://open.spotify.com/user/31y7d5yswpaxbw2apaymgcxmzh5u">spotify</a>
+<a href="https://twitter.com/Phineasnyes">twitter</a><br />
+<a href="https://www.twitch.tv/phineas_123123">twitch</a>
+<a href="https://www.youtube.com/channel/UCiFxw0Muro7FWg7i0sSI6Lw">youtube</a><br />
+```console
+                   .%;888:8898898:                makszalata@makszalata-h61ms1 
                  x;XxXB%89b8:b8%b88:              ----------------------------
               .8Xxd                8X:.           OS: Garuda Linux x86_64
             .8Xx;                    8x:.         Host: H61M-S1
@@ -25,6 +22,5 @@ GBB.                                              WM Theme: Sweet-Dark
     dxx8o                      .@@;.              Terminal: qterminal
       dx88                   .t@x.                CPU: Intel Core i3-2120 (4) @ 3.3GHz
         d:SS@8ba89aa67a853Sxxad.                  GPU: Nvidia GeForce GT 430
-          .d988999889889899dd.                    Memory: 1774MiB / 3886MiB</pre><td/>
-  <tr/>
-</table>
+          .d988999889889899dd.                    Memory: 1774MiB / 3886MiB
+```
